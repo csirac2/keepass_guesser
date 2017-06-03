@@ -1,0 +1,5 @@
+env
+*.pyc
+tests/__pycache__/*
+*.swp
+*.swo
